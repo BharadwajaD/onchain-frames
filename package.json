@@ -1,7 +1,7 @@
 {
   "name": "onchain",
   "version": "0.1.0",
-  "homepage":"https://BharadwajaD.github.io/onchain-frames",
+  "homepage":"https://bharadwajad.github.io/onchain-frames",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
